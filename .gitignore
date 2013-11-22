@@ -51,3 +51,6 @@ DerivedData
 
 # CocoaPods
 Pods
+
+# node 
+node_modules
